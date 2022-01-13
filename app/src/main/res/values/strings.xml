@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Koordinator Buddy</string>
+    <string name="look_for_location">Look for location</string>
+    <string name="longitude">Longitude</string>
+    <string name="Latitude">Lattitude</string>
+    <string name="state">State</string>
+    <string name="failed">Failed</string>
+</resources>

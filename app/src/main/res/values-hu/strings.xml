@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Koordináta Pajti</string>
+    <string name="look_for_location">Lokáció keresése</string>
+    <string name="longitude">Hosszúság</string>
+    <string name="Latitude">Szélesség</string>
+    <string name="failed">Sikertelen</string>
+    <string name="state">Állapot</string>
+</resources>
